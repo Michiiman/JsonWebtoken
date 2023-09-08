@@ -1,0 +1,12 @@
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\bin\Debug\net7.0\Seguridad.deps.json
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\bin\Debug\net7.0\Seguridad.dll
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\bin\Debug\net7.0\Seguridad.pdb
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.csproj.AssemblyReference.cache
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.AssemblyInfoInputs.cache
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.AssemblyInfo.cs
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.dll
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\refint\Seguridad.dll
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\Seguridad.pdb
+C:\Users\APT01-36\Documents\Prueba1.0\Seguridad\obj\Debug\net7.0\ref\Seguridad.dll
